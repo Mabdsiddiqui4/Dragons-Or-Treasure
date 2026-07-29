@@ -36,6 +36,22 @@ The game takes place on a custom 2D grid where coordinates `(X, Y)` represent po
   * `move_player.java`: Experimental movement validation script[cite: 22].
   * `Trapsl_File.java` & `tryTheProgram.java`: HashSet-based non-overlapping entity spawners[cite: 23, 24].
   * `CreateDiamondShape.java`: Nested loop pattern exercise[cite: 18].
+ 
+
+Dragons-Or-Treasure/
+├── src/
+│   └── com/game/dragonstreasure/
+│       ├── DragonsOrTreasurePart1.java   
+│       └── prototypes/                     
+│           ├── GameInProgram.java
+│           ├── MakeRondumToDragonY.java
+│           ├── MovePlayer.java
+│           ├── TrapsFile.java
+│           ├── TryTheProgram.java
+│           └── CreateDiamondShape.java
+├── README.md
+└── .gitignore
+
 ---
 
 ## 🚀 How to Run
